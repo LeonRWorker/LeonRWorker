@@ -1,8 +1,8 @@
-### Hi I'm a Computer Science Student
+### Hi I'm a Systems Development Student
 
-- 🌱 I’m currently learning **react native**
-- ⚡ About me: I'm **book lover**
-- 🔭 I’m currently working on Mobile Development
+- 🌱 I’m currently learning **react js**
+- ⚡ About me: I'm **gamer**
+- 🔭 I’m currently working on Web Development
 - 📚 Languages, Frameworks and Databases:<br><br>
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
