@@ -1,7 +1,7 @@
 ### Olá, meu nome é Léo e sou um desenvolvedor de sistemas
 
-- 🔭 Atualmente presto serviço para **Grupo Carmel Hotéis**
-- 🌱 Atualmente estou aprendendo **Laravel**
+- 🔭 Sou um desenvolvdor FullStack, voltado para aplicações em React
+- 🌱 Atualmente estou aprendendo **Power BI**
 - 👯 Estou procurando colaborar com projetos em **React, Vue, Angular, Node**
 - 📫 Como entrar em contato comigo: **[(85) 9 9229-5756](https://wa.me/+5585992295756) ou [leonrworker@gmail.com](mailto:leonrworker@gmail.com)** 
 - ⚡ Curiosidade: Amo desenvolver projetos em React JS e gosto de aprender novas tecnologias
